@@ -4,6 +4,12 @@ A simple command-line Python application that performs multiple operations on a 
 
 ---
 
+## 🎯 Purpose
+
+This project was built to practice core Python concepts like loops, functions, and conditional logic by creating a real-world command-line tool.
+
+---
+
 ## 🚀 Features
 
 * Reverse a number
@@ -20,6 +26,15 @@ A simple command-line Python application that performs multiple operations on a 
 * Conditional statements (`if-elif`)
 * Functions (modular programming)
 * User input handling
+
+---
+
+## 📚 What I Learned
+
+* How to structure a Python program using functions
+* How to build a menu-driven CLI application
+* How to reuse functions efficiently
+* Basic problem-solving and debugging skills
 
 ---
 
@@ -79,16 +94,17 @@ number-analyzer-python/
 
 ---
 
+## 🔄 Version
+
+* v1 → Basic number operations
+* v2 → Added menu system and analysis feature
+
+---
+
 ## ⚠️ Notes
 
 * Only integer input is supported
 * Invalid input may cause errors (to be improved in future versions)
-
----
-
-## 👨‍💻 Author
-
-Lokesh G
 
 ---
 
@@ -98,5 +114,11 @@ Lokesh G
 * Handle edge cases (like 0 and negative numbers)
 * Improve user interface
 * Convert into GUI application
+
+---
+
+## 👨‍💻 Author
+
+Lokesh G
 
 ---
